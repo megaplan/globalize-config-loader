@@ -1,5 +1,5 @@
 {
-  "name": "globalize-config-loader",
+  "name": "@megaplan/globalize-config-loader",
   "version": "0.1.1",
   "description": "Webpack loader for globalize-config-compiler.",
   "main": "lib/loader.js",
